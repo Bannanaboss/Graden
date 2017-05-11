@@ -1,0 +1,46 @@
+body {
+    background-color: #d3fcc9;
+    font-family: Arial;
+    text-align: center;
+}
+
+li {
+    margin-bottom: -10px;
+    font-size: 50px;
+}
+
+input {
+    position: relative;
+    bottom: 10px;
+    height: 50px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
+nav li {
+    display: inline-block;
+    padding: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin: 10px;
+    margin-bottom: 5px;
+    background-color: #389921;
+    color: white;
+}
+
+nav li a {
+    color: white;
+    text-decoration: none;
+    font-size: 100px;
+}
+
+nav li a:hover {
+    color: #cccccc;
+}
+
+img {
+    margin: 5px;
+}
